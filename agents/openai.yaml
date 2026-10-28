@@ -1,0 +1,4 @@
+interface:
+  display_name: "单品展示 TVC｜Seedance"
+  short_description: "将单张或少量产品图编译为30秒Seedance单品视觉广告"
+  default_prompt: "使用 $product-showcase-tvc-seedance-prompt 将我的产品参考图编译成产品本身绝对主导的30秒 Seedance 2.5 展示型 TVC 提示词。"
